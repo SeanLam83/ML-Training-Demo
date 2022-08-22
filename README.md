@@ -1,16 +1,22 @@
 # ML-Training-Demo
 
-Dataset 1: Titanic Survival Data Description
+## Dataset 1: Titanic Survival Data Description
 
 This data set contains the survival status of passengers aboard the maiden voyage of the RMS Titanic in 1912
 
-Dataset 2: Income Census Data 
+The prediction task is to determine whether or not a person would survive the Titanic Disaster 
 
-Data was extracted from the 1994 Census bureau database 
+## Dataset 2: Income Census Data 
 
-Dataset 3: Data Job Salaries
+Data was extracted from the 1994 Census bureau database
+
+The prediction task is to determine whether a person makes over $50K a year
+
+## Dataset 3: Data Job Salaries
 
 Salaries of jobs in the Data Science domain
+
+The task is to create a multi-class target variable in AUD to predict salary ranges.
 
 work_year:	The year the salary was paid.
 
