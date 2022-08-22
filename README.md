@@ -8,6 +8,6 @@ Dataset 2: Income Census Data
 
 Data was extracted from the 1994 Census bureau database 
 
-Dataset 2: Data Job Salaries
+Dataset 3: Data Job Salaries
 
 Salaries of jobs in the Data Science domain
